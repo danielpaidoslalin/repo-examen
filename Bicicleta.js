@@ -3,6 +3,7 @@ class Bicicleta extends Vehiculo{
     #tipo;
     #bocina;
 
+    
     // Constructor
     constructor(numeroDeRuedas, numeroDeLuces, color, tipo, bocina){
         super(numeroDeRuedas, numeroDeLuces, color);
